@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.educandoweb.webservice.entities.User;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
